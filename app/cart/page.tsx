@@ -41,7 +41,7 @@ export default function Cart() {
             {cartItems.length === 0 ? (
               <div className="text-center py-12">
                 <p className="text-gray-500 text-lg">Your cart is empty</p>
-                <a href="./products/" className="text-blue-600 hover:underline mt-2 inline-block">
+                <a href="/e-mall.io/products/" className="text-blue-600 hover:underline mt-2 inline-block">
                   Continue Shopping
                 </a>
               </div>

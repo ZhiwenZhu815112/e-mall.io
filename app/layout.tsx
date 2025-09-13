@@ -21,12 +21,12 @@ export default function RootLayout({
           <div className="container mx-auto flex justify-between items-center">
             <h1 className="text-2xl font-bold">E-Commerce Store</h1>
             <nav className="hidden md:flex space-x-6">
-              <a href="./" className="hover:text-blue-200">Home</a>
-              <a href="./products/" className="hover:text-blue-200">Products</a>
-              <a href="./cart/" className="hover:text-blue-200">Cart</a>
-              <a href="./orders/" className="hover:text-blue-200">Orders</a>
-              <a href="./account/" className="hover:text-blue-200">Account</a>
-              <a href="./support/" className="hover:text-blue-200">Support</a>
+              <a href="/e-mall.io/" className="hover:text-blue-200">Home</a>
+              <a href="/e-mall.io/products/" className="hover:text-blue-200">Products</a>
+              <a href="/e-mall.io/cart/" className="hover:text-blue-200">Cart</a>
+              <a href="/e-mall.io/orders/" className="hover:text-blue-200">Orders</a>
+              <a href="/e-mall.io/account/" className="hover:text-blue-200">Account</a>
+              <a href="/e-mall.io/support/" className="hover:text-blue-200">Support</a>
             </nav>
           </div>
         </header>

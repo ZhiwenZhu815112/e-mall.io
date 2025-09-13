@@ -23,7 +23,7 @@ export default function Home() {
           <h1 className="text-4xl font-bold mb-4">Welcome to Our E-Commerce Store</h1>
           <p className="text-xl mb-8">Discover quality products and enjoy shopping</p>
           <a 
-            href="./products/" 
+            href="/e-mall.io/products/" 
             className="bg-white text-blue-600 px-8 py-3 rounded-lg font-semibold hover:bg-gray-100 transition-colors inline-block"
           >
             Start Shopping

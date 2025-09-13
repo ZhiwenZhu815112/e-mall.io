@@ -49,7 +49,7 @@ export default function Orders() {
           {orders.length === 0 ? (
             <div className="px-6 py-12 text-center">
               <p className="text-gray-500 text-lg">No orders found</p>
-              <a href="./products/" className="text-blue-600 hover:underline mt-2 inline-block">
+              <a href="/e-mall.io/products/" className="text-blue-600 hover:underline mt-2 inline-block">
                 Start Shopping
               </a>
             </div>
